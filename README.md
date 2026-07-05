@@ -6,12 +6,13 @@ Following the book "Hands-On Machine Learning with Scikit-Learn, Keras & TensorF
 
 | # | Chapter | Topic | Status |
 |---|---------|-------|--------|
-| 1 | Ch.02 | End-to-End ML Project | 🔄 In Progress |
+| 1 | Ch.02 | End-to-End ML Project | ✅ Done |
 
 ## 🚀 Projects
+
 | # | Project | Description | Status |
 |---|---------|-------------|--------|
-| 1 | California Housing Price Prediction | Predict house prices using regression | 🔄 In Progress |
+| 1 | California Housing Price Prediction | Predict house prices using Random Forest | ✅ Done |
 
 ## 🛠️ Tech Stack
 - Python 3.10+
